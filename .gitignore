@@ -58,4 +58,4 @@ target/
 *~
 
 # ipython
-.ipython_checkpoints
+.ipynb_checkpoints
